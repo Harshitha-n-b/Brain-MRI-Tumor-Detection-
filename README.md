@@ -101,7 +101,11 @@ Brain-MRI-Tumor-Detection-
 
 ![Home](screenshots/home.png)
 
-### login Page
+### Register Page
+
+![login](screenshots/signup.png)
+
+### Login Page
 
 ![login](screenshots/login.png)
 
