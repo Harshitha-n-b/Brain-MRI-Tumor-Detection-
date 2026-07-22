@@ -97,25 +97,13 @@ Brain-MRI-Tumor-Detection-
 
 ## 📸 Application Screenshots
 
-Add screenshots inside the `screenshots` folder.
-
-Example:
-
-```
-screenshots/
-├── home.png
-├── login.png
-├── dashboard.png
-├── upload.png
-├── prediction.png
-└── report.png
-```
-
-Then display them like this:
-
 ### Home Page
 
 ![Home](screenshots/home.png)
+
+### login Page
+
+![login](screenshots/login.png)
 
 ### Dashboard
 
@@ -125,7 +113,6 @@ Then display them like this:
 
 ![Prediction](screenshots/prediction.png)
 
----
 
 ## ⚙️ Installation
 
